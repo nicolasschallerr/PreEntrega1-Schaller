@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "T-shirt",
+    "description": "A simple T-shirt",
+    "code": "TS001",
+    "price": 40,
+    "stock": 100,
+    "category": "clothing",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Pants",
+    "description": "Comfortable pants",
+    "code": "PN002",
+    "price": 70,
+    "stock": 50,
+    "category": "clothing",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 3,
+    "title": "Sneakers",
+    "description": "Running shoes",
+    "code": "SH003",
+    "price": 120,
+    "stock": 30,
+    "category": "footwear",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "Jacket",
+    "description": "Warm jacket",
+    "code": "JK004",
+    "price": 100,
+    "stock": 25,
+    "category": "clothing",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "Cap",
+    "description": "Stylish cap",
+    "code": "CP005",
+    "price": 20,
+    "stock": 200,
+    "category": "accessories",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "Sunglasses",
+    "description": "UV protection sunglasses",
+    "code": "SG006",
+    "price": 50,
+    "stock": 80,
+    "category": "accessories",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 7,
+    "title": "Watch",
+    "description": "Luxury wristwatch",
+    "code": "WT007",
+    "price": 300,
+    "stock": 10,
+    "category": "accessories",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 8,
+    "title": "Socks",
+    "description": "Comfortable cotton socks",
+    "code": "SK008",
+    "price": 10,
+    "stock": 500,
+    "category": "clothing",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 9,
+    "title": "Backpack",
+    "description": "Durable backpack",
+    "code": "BP009",
+    "price": 90,
+    "stock": 40,
+    "category": "accessories",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 10,
+    "title": "Belt",
+    "description": "Leather belt",
+    "code": "BL010",
+    "price": 35,
+    "stock": 60,
+    "category": "accessories",
+    "thumbnails": [],
+    "status": true
+  }
+]
